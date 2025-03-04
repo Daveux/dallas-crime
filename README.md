@@ -1,0 +1,1 @@
+The goal of this project is to analyze the Dallas Police Incidents dataset to identify key factors that contribute to violent crime incidents. By understanding the characteristics and patterns of violent crimes, we can help the Dallas Police Department develop more targeted strategies and interventions to reduce such incidents.
